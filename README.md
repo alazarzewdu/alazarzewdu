@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alazarzewdu&label=Profile%20views&color=0e75b6&style=flat" alt="alazarzewdu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alazarzewdu" alt="alazarzewdu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alazarzewdu1" target="blank"><img src="https://img.shields.io/twitter/follow/alazarzewdu1?logo=twitter&style=for-the-badge" alt="alazarzewdu1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m freelancing on [Upwork](https://www.upwork.com/freelancers/~01d4129d665d7b489e?viewMode=1)
 
 - 🌱 I’m currently learning **Tailwind CSS**
+
+- 🔭 I’m freelancing on [Fiverr](https://www.fiverr.com/alazarzewdu?public_mode=true)
 
 - 👨‍💻 All of my projects are available at [alazar.dev](alazar.dev)
 
@@ -15,10 +17,12 @@
 
 - 📫 How to reach me **alazarzewdu3@gmail.com**
 
-- 📄 Know about my experiences [soon](soon)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/alazarzewdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alazarzewdu" height="30" width="40" /></a>
+<a href="https://twitter.com/alazarzewdu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alazarzewdu1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alazar-zewdu-93b563198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alazar-zewdu-93b563198/" height="30" width="40" /></a>
+<a href="https://instagram.com/alazar_ze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alazar_ze" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
