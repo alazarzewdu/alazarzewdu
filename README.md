@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://twitter.com/alazarzewdu1" target="blank"><img src="https://img.shields.io/twitter/follow/alazarzewdu1?logo=twitter&style=for-the-badge" alt="alazarzewdu1" /></a> </p>
 
 - 🔭 I’m freelancing on [Upwork](https://www.upwork.com/freelancers/~01d4129d665d7b489e?viewMode=1)
+- 
+- - 🔭 I’m freelancing on [Fiverr](https://www.fiverr.com/alazarzewdu?public_mode=true)
 
 - 🌱 I’m currently learning **Tailwind CSS**
-
-- 🔭 I’m freelancing on [Fiverr](https://www.fiverr.com/alazarzewdu?public_mode=true)
 
 - 👨‍💻 All of my projects are available at [alazar.dev](alazar.dev)
 
